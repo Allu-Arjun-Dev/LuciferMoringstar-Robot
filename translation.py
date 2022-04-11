@@ -23,8 +23,8 @@ class LuciferMoringstar(object):
 👉<a href=https://t.me/Its_unique_movies_adda >PANCH MISALI</a>
 👉<a href=https://t.me/+BixProBUQBo4MWM9 >UNIQUE MOVIE UPDATES</a>
 ========================
-<a href=http://t.me/Panchmisali_7_Bot >Request Bot</a>
-<a href=https://t.me/Panchmisali_2_Bot>Channel Bot</a>
+<a href=http://t.me/Panchmisali_7_Bot >🤖 Request Bot</a>
+<a href=https://t.me/Panchmisali_2_Bot>🤖 Channel Bot</a>
 ========================= 
  JOIN 🎗 SHARE 🎗 SUPPORT
 ========================="""
