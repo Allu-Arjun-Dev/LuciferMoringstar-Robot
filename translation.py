@@ -26,7 +26,7 @@ class LuciferMoringstar(object):
     FILE_CAPTIONS = """📁 File Info - <code>{title}</code>
 ========================
 🔘 Join
-👉<a href=https://t.me/Its_unique_movies_adda >PANCH MISALI</a>
+👉<a href=https://t.me/Its_unique_movies_adda >IT'S UNIQUE MOVIE</a>
 👉<a href=https://t.me/+BixProBUQBo4MWM9 >UNIQUE MOVIE UPDATES</a>
 ========================
 <a href=http://t.me/Panchmisali_7_Bot >🤖 Request Bot</a>
