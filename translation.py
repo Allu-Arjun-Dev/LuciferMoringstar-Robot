@@ -17,7 +17,7 @@ class LuciferMoringstar(object):
 
 📡 My Server : [Heroku]"""
 
-    FILE_CAPTIONS = """📁 File Info - <code>{file_name}</code>
+    FILE_CAPTIONS = """📁 File Info - <code>{title}</code>
 ========================
 🔘 Join
 👉<a href=https://t.me/Its_unique_movies_adda >PANCH MISALI</a>
