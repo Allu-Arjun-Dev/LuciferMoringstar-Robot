@@ -221,7 +221,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                         file_id=file_id,
                         caption=caption
                         )
-                    await query.answer('🤖 Check PM, I have Sent Files In Pm 🤖',show_alert = True)
+                    await query.answer('Check PM, I have Sent Files In Pm 📩',show_alert = True)
             except UserIsBlocked:
                 await query.answer('Unblock the bot mahn !',show_alert = True)
             except PeerIdInvalid:
@@ -244,7 +244,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                 caption=CUSTOM_FILE_CAPTION.format(mention=query.from_user.mention, title=title, size=size, caption=files.caption)
 
                 buttons = [[
-                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('🔗 Join Group', url='https://t.me/Its_unique_movies_adda')
                   ]]                 
                 
                 await query.answer()
@@ -370,7 +370,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
 
 
     else:
-        await query.answer("Please Request",show_alert=True)
+        await query.answer("Ask For Your Own Movie Or Series",show_alert=True)
 
 
 
