@@ -17,7 +17,29 @@ class LuciferMoringstar(object):
 
 📡 My Server : [Heroku]"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """📁 File Info - <code>{file_name}</code>
+
+==========================
+👇OUR GROUP - JOIN US👇
+
+‼️ Main Group ‼️
+ 👉Link :- https://t.me/Its_unique_movies_adda
+=========================
+👉 (1)‼️Backup Group :- https://t.me/movie_time_adda
+👉 (2)‼️Backup Group :- https://t.me/+JaqHJrYziA42Mzdl
+=========================
+(1)‼️Request BOT :-http://t.me/Panchmisali_7_Bot
+=========================
+(2)‼️Channel BOT :- @Panchmisali_2_Bot
+========================= 
+   👇Admin Auto Filter bot👇
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+(1)‼️@Movie_Time_Bangla_bot
+(2)‼️@Movie_Time_Hindi_bot
+(3)‼️@Panch_Misali_Bot
+(4)‼️@Tk_World_Bot
+=========================
+JOIN US :- SUPPORT & SHARE"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
