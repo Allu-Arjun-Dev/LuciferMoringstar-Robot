@@ -23,17 +23,29 @@ class LuciferMoringstar(object):
 
 📡 My Server : [Heroku]"""
 
-    FILE_CAPTIONS = """📁 File Info - <code>{title}</code>
-========================
-🔘 Join
-👉<a href=https://t.me/Its_unique_movies_adda >IT'S UNIQUE MOVIE</a>
-👉<a href=https://t.me/+BixProBUQBo4MWM9 >UNIQUE MOVIE UPDATES</a>
-========================
-<a href=http://t.me/Panchmisali_7_Bot >🤖 Request Bot</a>
-<a href=https://t.me/Panchmisali_2_Bot>🤖 Channel Bot</a>
-========================= 
- JOIN 🎗 SHARE 🎗 SUPPORT
-========================="""
+    FILE_CAPTIONS = """╭──[ミ★ IT'S UNIQUE MOVIES ★彡]──╮
+
+├• 👋 𝐇𝐞𝐥𝐥𝐨 {mention}
+
+├• ✅ 𝐘𝐨𝐮𝐫 𝐅𝐢𝐥𝐞 𝐈𝐬 𝐑𝐞𝐚𝐝𝐲
+
+├• 🎬 𝐓𝐢𝐭𝐥𝐞 : <code>{file_name}</code>
+
+├• 💾 𝐒𝐢𝐳𝐞 : {size}
+
+├• 🔘 𝐉𝐨𝐢𝐧 🎗 𝐒𝐡𝐚𝐫𝐞 🎗 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
+├• 🔗 <a href ='https://t.me/Its_unique_movies_adda'>IT'S UNIQUE MOVIES</a>
+
+├• 📣 <a href='https://t.me/+BixProBUQBo4MWM9'>IT'S UNIQUE MOVIES UPDATES </a>
+
+├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= ' https://t.me/Its_unique_movies_adda'>IT'S UNIQUE MOVIES </a>
+
+├• 🤖 <a href ='http://t.me/Panchmisali_7_Bot'>Admin Chat Bot</a>
+
+├• 🤖 <a href ='https://t.me/Panchmisali_2_Bot'>Our Channel Bot</a>
+
+╰──────[ 👑 ]───────╯"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
