@@ -37,9 +37,9 @@ class LuciferMoringstar(object):
 
 ├• 🔗 <a href ='https://t.me/Its_unique_movies_adda'>IT'S UNIQUE MOVIES</a>
 
-├• 📣 <a href='https://t.me/+BixProBUQBo4MWM9'>IT'S UNIQUE MOVIES UPDATES </a>
+├• 📣 <a href='https://t.me/+BixProBUQBo4MWM9'>IT'S UNIQUE MOVIES UPDATES</a>
 
-├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href= ' https://t.me/Its_unique_movies_adda'>IT'S UNIQUE MOVIES </a>
+├• ⬆️ 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐁𝐲 <a href='https://t.me/Its_unique_movies_adda'>IT'S UNIQUE MOVIES</a>
 
 ├• 🤖 <a href ='http://t.me/Panchmisali_7_Bot'>Admin Chat Bot</a>
 
